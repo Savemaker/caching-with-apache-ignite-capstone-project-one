@@ -19,3 +19,6 @@ application.properties
 ~~~
 
 [Jcpenney Product Dataset Link](https://www.kaggle.com/PromptCloudHQ/all-jc-penny-products)
+
+# Bugs:
+Gradle build stopped building because tests are failing, but tests are running ok manually
